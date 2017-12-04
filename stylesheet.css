@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+.border{
+	float:left;
+	margin: 0px;
+}
+#content{
+	width:779px;
+	height: 780px;
+	background-color: gray;
+	float:left;
+	margin: 0px;
+}
+#header{
+	margin: 0px;
+	width:1080px;
+	height: 300px;
+}
+#footer{
+	margin: 0px;
+	width:1080px;
+	height:920px;
+}

@@ -3,13 +3,21 @@
 .border{
 	float:left;
 	margin: 0px;
+	height: 780px;
 }
 #content{
-	width:779px;
+	width:780px;
 	height: 780px;
-	background-color: gray;
+	background-color: white;
 	float:left;
 	margin: 0px;
+	text-align: center;
+}
+div h1{
+	color: #626D6D;
+	margin: 0px;
+	border-bottom: #626D6D solid 1px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
 }
 #header{
 	margin: 0px;
@@ -20,4 +28,21 @@
 	margin: 0px;
 	width:1080px;
 	height:920px;
+}
+.right{
+	margin: 0px;
+	height:780px;
+}
+#menu{
+	text-align: left;
+}
+#background{
+	background-color:#9CA2A2
+}
+#center{
+	width:1080px;
+	margin: 0 auto;
+}
+p{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
 }
